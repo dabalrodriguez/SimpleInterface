@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleInterface</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Selecciona</string>
+    <string name="button_send">Pulse el botón</string>
+</resources>
